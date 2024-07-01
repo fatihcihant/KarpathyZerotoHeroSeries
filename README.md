@@ -1,6 +1,6 @@
 # Andrej Karpathy's Neural Networks Lectures 
 
-This repository consists of the codes of the videos in Andrej Karpathy's "Zero-to-Hero" series on YouTube. In addition to what he said, it also includes some of my code experiments and notes.
+This repository contains the codes of Andrej Karpathy's "Zero-to-Hero" series on YouTube. In addition to what he said, it also includes some of my code experiments and notes.
 
 You can access his videos from the link below.
 ## Lectures 
